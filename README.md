@@ -18,6 +18,7 @@ By providing a reliable and scalable solution for skin disease detection, this p
 OUTPUT 
 
 
-<img width="910" height="758" alt="image" src="https://github.com/user-attachments/assets/fcd26b34-571b-4d9e-8b6f-35002004844f" />
+<img width="896" height="761" alt="image" src="https://github.com/user-attachments/assets/213b26aa-e23b-4b59-9f67-9da811c78d4a" />
+
 
 <img width="900" height="758" alt="image" src="https://github.com/user-attachments/assets/5ab1c857-5ab6-4da6-8f08-a00f24bb1793" />
